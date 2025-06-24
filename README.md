@@ -25,9 +25,9 @@ I built an interactive dashboard using:
 
 ---
 
-📂 Dataset + Dashboard File:  
-- `pizza_sales_2015.csv`  
-- `Pizza Sales Dashboard.xlsx`
+# 🍕 Pizza Sales Dashboard – Excel Project
+
+![Dashboard Preview](https://github.com/Yokesh1507/pizza-sales-dashboard-excel/raw/main/dashboard-preview.png.png)
 
 📥 **You can download and try the dashboard yourself.**
 
